@@ -83,6 +83,8 @@ In today's fast-paced work environments, professionals often face decision fatig
 
 ### Project Structure
 
+```
+
 task-analyzer/
 ├── backend/
 │   ├── manage.py
@@ -105,6 +107,8 @@ task-analyzer/
 │   ├── styles.css
 │   └── script.js
 └── README.md
+
+```
 
 ### High-Level Overview
 
