@@ -8,24 +8,6 @@ The Smart Task Analyzer is a sophisticated, full-stack web application designed 
 
 In today's fast-paced work environments, professionals often face decision fatigue when determining which tasks to tackle first. The Smart Task Analyzer eliminates this burden by implementing a multi-factor scoring algorithm that considers urgency, importance, effort, and dependencies. This system doesn't just sort tasks—it provides deep insights into why certain tasks should be prioritized and offers multiple strategic approaches to task management.
 
----
-
-## 📋 Table of Contents
-
-1. [Features](#-features)
-2. [Technology Stack](#-technology-stack)
-3. [System Architecture](#-system-architecture)
-4. [Installation & Setup](#-installation--setup)
-5. [Algorithm Deep Dive](#-algorithm-deep-dive)
-6. [API Documentation](#-api-documentation)
-7. [Design Decisions](#-design-decisions)
-8. [Development Timeline](#-development-timeline)
-9. [Bonus Features](#-bonus-features)
-10. [Future Roadmap](#-future-roadmap)
-11. [Troubleshooting](#-troubleshooting)
-12. [Contributing](#-contributing)
-
----
 
 ## 🌟 Features
 
